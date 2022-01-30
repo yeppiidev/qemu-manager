@@ -1,7 +1,7 @@
 # qemu-manager
 A small manager/GUI Frontend for QEMU written in Python
 
-![image](https://user-images.githubusercontent.com/52355164/151688481-3b4049eb-198a-4249-b343-e6f510850c9e.png)
+![image](https://user-images.githubusercontent.com/52355164/151694029-24e0ca80-a866-4986-b0f5-fe8cc98fb71f.png)
 
 ## Requirements
 You'll need to have the following tools installed to run this:
