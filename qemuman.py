@@ -105,7 +105,7 @@ class Manager:
         return which(name) is not None
 
     def exit_handler(self):
-        if self.qemu_kill_on_exit.get():
+        if self.qemu_kill_on_exit.get() and hasattr(self, 'qemu_process'):
             self.qemu_process.kill()
 
     def kill_vm(self):
