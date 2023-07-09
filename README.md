@@ -1,10 +1,10 @@
 # qemu-manager
-A small manager/GUI Frontend for QEMU written in Python
+A lightweight GUI Frontend for QEMU written in Python
 
 ![image](https://user-images.githubusercontent.com/52355164/151694029-24e0ca80-a866-4986-b0f5-fe8cc98fb71f.png)
 
 ## Requirements
-You'll need to have the following tools installed to run this:
+The following tools have to be installed to run this:
 - QEMU (Refer to the [QEMU Download Page](https://www.qemu.org/download/) for the latest QEMU binaries)
 - Python 3.8 or above
 
