@@ -13,5 +13,5 @@ The following tools have to be installed to run this:
 
 ![image](https://user-images.githubusercontent.com/52355164/151688379-ae850cce-c244-48bc-b287-5824a572c63c.png)
 - Un-zip the archive to a folder, and open a terminal there (On most Linux file managers, right-click > Open in terminal. On Windows, shift+right-click > Open in Windows Powershell/Command Prompt)
-- Type `pip -r requirements.txt` to install the modules required for this program
+- Type `pip install -r requirements.txt` to install the modules required for this program
 - Finally, type `python qemuman.py` to run this program.
